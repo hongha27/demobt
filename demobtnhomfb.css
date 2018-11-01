@@ -1,0 +1,118 @@
+*{
+        margin: 0px;
+        padding: 0px;
+      }
+      body {
+        text-align:center;
+        background-color:lightblue;
+      }
+      h1 {
+        margin-top:50px;
+        position:relative;
+        font-size:28px;
+        padding-bottom:10px;
+        text-transform: uppercase;
+      }
+      hr {
+        width:70px;
+        height: 5px;
+        margin: 38px auto;
+        border:none;
+        background-color: blue;
+      }
+      .Inline-list {
+        position: relative;
+        top : 50px;
+      }
+      .Inline-list li{
+        display: inline-block;
+        margin: -1px 25px;
+        width: 170px;
+      }
+      .Inline-list li img {
+        width: 150px;
+        height: 150px;
+        margin: 20px;
+        background-color:gray;
+        border-radius: 50%;
+      }
+      .Inline-list li > p{
+        margin: 6px;
+        padding: 5px;
+      }
+      .Inline-list li span {
+        color:green;
+        font-size:14px;
+      }
+      .icon div{
+        display:inline-block;
+        margin: 8px 2px;
+        /* padding-top: 6px; */
+        /* text-align: center; */
+        width: 30px;
+        height: 30px;
+        border-radius:50%;
+        background-color: #74a0cf;
+      }*{
+        margin: 0px;
+        padding: 0px;
+      }
+      body {
+        text-align:center;
+        background-color:lightblue;
+      }
+      h1 {
+        margin-top:50px;
+        position:relative;
+        font-size:28px;
+        padding-bottom:10px;
+        text-transform: uppercase;
+      }
+      hr {
+        width:70px;
+        height: 5px;
+        margin: 13px auto;
+        border:none;
+        background-color: blue;
+      }
+      .Inline-list {
+        position: relative;
+        top : 50px;
+      }
+      .Inline-list li{
+        display: inline-block;
+        margin: -1px 25px;
+        width: 170px;
+      }
+      .Inline-list li img {
+        width: 150px;
+        height: 150px;
+        margin: 20px;
+        background-color:gray;
+        border-radius: 50%;
+      }
+      .Inline-list li > p{
+        margin: 6px;
+        padding: 5px;
+      }
+      .Inline-list li span {
+        color:green;
+        font-size:14px;
+      }
+      .icon div{
+        display:inline-block;
+        margin: 8px 2px;
+        /* padding-top: 6px; */
+        /* text-align: center; */
+        width: 30px;
+        height: 30px;
+        border-radius:50%;
+        background-color: #74a0cf;
+      }
+    .fa, .fab, .fal, .far, .fas {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 2;
+}
